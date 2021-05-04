@@ -30,19 +30,20 @@ The API is used to fetch, update and remove content from the database. It return
 Below is a sample output for each request method:
 ![](https://raw.githubusercontent.com/musevarg/Transportation-Management-System/master/pic1.png)
 
-### 2. Admin Panel
+### 2. Panel de Administrador
 
-The admin panel allows an admin user to update the MySQL database. The admin can add, remove and amend records.
+El panel de administración permite que un usuario administrador actualice la base de datos MySQL. El administrador puede agregar, eliminar y modificar registros.
 
-It is developed using *HTML*, *CSS*, *JavaScript* and *jQuery* to perform API calls. It makes extensive use of bootstrap and the above API.
+Se desarrolla usando * HTML *, * CSS *, * JavaScript * y * jQuery * para realizar llamadas a la API. Hace un uso extensivo de bootstrap y la API anterior.
 
-It also contains a dashboard screen that allows for the admin to check the monthly revenue and the monthly fees (fuel, lunch, MOT).
+También contiene una pantalla de tablero que le permite al administrador verificar los ingresos mensuales y las tarifas mensuales (combustible, almuerzo, MOT).
+
 
 [See Admin Panel code here](https://github.com/musevarg/Transportation-Management-System/tree/master/API-and-Admin-Panel/App/App/AdminPanel).
 
 ![](https://raw.githubusercontent.com/musevarg/Transportation-Management-System/master/pic2.png)
 
-### 3. Android Application
+### 3. Aplicación Android
 
 The API allows for users authentication and also provides content to the native application.
 It allows for delivery drivers to log in and see what vehicle has been assigned to them, how many jobs have been assigned to them and allows them to mark a job as completed. This updates the status of the job in the database and uploads a picture of the parcel and the customer's signature.
