@@ -2,12 +2,13 @@ Este proyecto ganó [Napier University Group Project Awards](https://www.napier.
 
 # Transportation Management System - Sistema de manejo para Transportadores
 
-This project is a full-suite for a delivery company. It includes:
+Este proyecto es una suite completa para una empresa de transporte de vehículos. Incluye:
 
- - Customers website: general information about the company and parcel tracking option
- - Admin Panel: allows an admin user to manage the entire database in a user-firendly environment and also provide business oriented applications (revenue and spendings overview, jobs and drivers assignments and management...)
- - Drivers App: android application that allows drivers to see the jobs and vehicle assigned to them, mark jobs as completed, request for a customer signature, upload receipts and parcel pictures to the server, etc.
- - API: the pivotal element that connects and makes the three above services work
+ - Sitio web de los clientes: información general sobre la empresa y la opción de seguimiento de paquetes.
+ - Panel de administración: permite a un usuario administrador administrar toda la base de datos en un entorno amigable para el usuario y también proporcionar aplicaciones   orientadas al negocio (descripción general de ingresos y gastos, asignación y administración de trabajos y conductores)
+ - Aplicación de conductores: aplicación de Android que permite a los conductores ver los trabajos y el vehículo que se les asignó, marcar trabajos como completados, solicitar la firma del cliente, cargar recibos e imágenes de vehículos en el servidor, etc.
+ - API: el elemento fundamental que conecta y hace que los tres servicios anteriores funcionen
+
 
 ### 0. Web Server
 
