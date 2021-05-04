@@ -54,7 +54,7 @@ La API permite la autenticación de usuarios y también proporciona contenido a 
 
 ### 4. Sitio web de clientes
 
-This simple website gives information about the company and allows sutomers to track their parcel (the API is used for that).
+Este sencillo sitio web proporciona información sobre la empresa y permite a los usuarios realizar un seguimiento de su paquete (la API se utiliza para eso).
 
 [See website code here](https://github.com/musevarg/Transportation-Management-System/tree/master/API-and-Admin-Panel/App/App/Website).
 
