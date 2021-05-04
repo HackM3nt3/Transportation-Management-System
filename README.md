@@ -52,7 +52,7 @@ La API permite la autenticación de usuarios y también proporciona contenido a 
 
 ![](https://raw.githubusercontent.com/musevarg/Transportation-Management-System/master/pic3.png)
 
-### 4. Customers Website
+### 4. Sitio web de clientes
 
 This simple website gives information about the company and allows sutomers to track their parcel (the API is used for that).
 
