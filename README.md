@@ -21,9 +21,10 @@ Toda la configuración utiliza planos separados en tres áreas. Se inicia una ap
 
 ### 1. API
 
-The API is written in *Python* and *SQL*.
+La API está escrita en Python y SQL.
 
-The API is used to fetch, update and remove content from the database. It returns JSON responses and handles GET, POST, PUT and DELETE methods.
+La API se utiliza para buscar, actualizar y eliminar contenido de la base de datos. Devuelve respuestas JSON y maneja los métodos GET, POST, PUT y DELETE.
+
 
 [See API code here](https://github.com/musevarg/Transportation-Management-System/blob/master/API-and-Admin-Panel/App/App/API/RestAPI.py).
 
