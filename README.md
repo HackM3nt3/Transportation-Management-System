@@ -10,11 +10,12 @@ Este proyecto es una suite completa para una empresa de transporte de vehículos
  - API: el elemento fundamental que conecta y hace que los tres servicios anteriores funcionen
 
 
-### 0. Web Server
+### 0. Servidor Web
 
-The web server uses *Python FLASK*. The API, Admin Panel and Customer's Website are therefore flask applications.  
-The whole setup uses Blueprints to separate the three areas. A main app is initiated, and sub-apps (api, admin panel and customer websites) are inititated within the main App.  
-*Python* is used as server-side language.
+El servidor web utiliza * Python FLASK *. Por lo tanto, la API, el panel de administración y el sitio web del cliente son aplicaciones Flask.
+Toda la configuración utiliza planos separados en tres áreas. Se inicia una aplicación principal y las sub-aplicaciones (api, panel de administración y sitios web de clientes) se inician dentro de la aplicación principal.
+* Python * se utiliza como lenguaje del lado del servidor.
+
 
 [See App.py setup and blueprints registration here](https://github.com/musevarg/Transportation-Management-System/blob/master/API-and-Admin-Panel/App/App/App.py).
 
