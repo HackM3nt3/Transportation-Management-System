@@ -46,9 +46,7 @@ También contiene una pantalla de tablero que le permite al administrador verifi
 
 ### 3. Aplicación Android
 
-The API allows for users authentication and also provides content to the native application.
-It allows for delivery drivers to log in and see what vehicle has been assigned to them, how many jobs have been assigned to them and allows them to mark a job as completed. This updates the status of the job in the database and uploads a picture of the parcel and the customer's signature.
-It also permits for uploading receipts. This content can be retrieved in the admin panel.
+La API permite la autenticación de usuarios y también proporciona contenido a la aplicación nativa. Permite a los conductores de reparto iniciar sesión y ver qué vehículo se les ha asignado, cuántos trabajos se les han asignado y les permite marcar un trabajo como completado. Esto actualiza el estado del trabajo en la base de datos y carga una imagen del paquete y la firma del cliente. También permite cargar recibos. Este contenido se puede recuperar en el panel de administración.
 
 [See Android App code here](https://github.com/musevarg/Transportation-Management-System/tree/master/Drivers-Android-App/app/src/main).
 
