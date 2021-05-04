@@ -28,7 +28,7 @@ La API se utiliza para buscar, actualizar y eliminar contenido de la base de dat
 
 [See API code here](https://github.com/musevarg/Transportation-Management-System/blob/master/API-and-Admin-Panel/App/App/API/RestAPI.py).
 
-Below is a sample output for each request method:
+A continuación se muestra una salida de muestra para cada método de solicitud:
 ![](https://raw.githubusercontent.com/musevarg/Transportation-Management-System/master/pic1.png)
 
 ### 2. Panel de Administrador
